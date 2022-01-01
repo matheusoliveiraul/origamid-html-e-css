@@ -36,7 +36,7 @@ Exercicios do curso do Origamid para html e css
             .menu a:hover{
                   border-color: #e21;
             }
-      <code>
+      </code>
       </dd>
       <dt><a href="https://matheusoliveiraul.github.io/origamid-html-e-css/0506b-refatorar-resolvido/index.html" target="_blank">0506b-refatorar-resolvido</a></dt>
       <dd>Resolução do exercício, como deveria ter ficado.</dd>
