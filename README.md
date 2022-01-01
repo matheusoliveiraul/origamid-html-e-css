@@ -28,15 +28,13 @@ Exercicios do curso do Origamid para html e css
       <dd>Outro ponto de dificuldade foi em questão ao hover dos items que precisava adicionar uma bordar de outra cor para quando se coloca o mouse em cima, no meu caso eu não consegui resolver o problema de ficar pulando ou tremendo os items e texto, pois os pixels adicionais do hover ficavam adicionando e fazendo o conteudo mexer. <br>
       A solução proposta foi deixar uma borda do tamanho desejado com a cor transparente, assim no hover apenas trocar a cor dela, conforme o exemplo abaixo.</dd>
       <dd>
-      ```
-            .menu a{
-                  border: 2px solid transparent;
+            .menu a{<br>
+                  border: 2px solid transparent;<br>
+            }<br>
+<br>
+            .menu a:hover{<br>
+                  border-color: #e21;<br>
             }
-
-            .menu a:hover{
-                  border-color: #e21;
-            }
-      ```
       </dd>
       <dt><a href="https://matheusoliveiraul.github.io/origamid-html-e-css/0506b-refatorar-resolvido/index.html" target="_blank">0506b-refatorar-resolvido</a></dt>
       <dd>Resolução do exercício, como deveria ter ficado.</dd>
