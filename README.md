@@ -6,12 +6,14 @@ Exercicios do curso do Origamid para html e css
  <dl>
       <dt><a href="https://matheusoliveiraul.github.io/origamid-html-e-css/0209-exercicio-cinema/index.html" target="_blank">0209 - Cinema</a></dt>
       <dd>Exercício de navegação entre páginas.</dd>
+      <hr>
       <dt><a href="https://matheusoliveiraul.github.io/origamid-html-e-css/0214a-display-exercicio/index.html" target="_blank">0214a-display-exercicio</a></dt>
       <dd>Minha tentativa de Recriar o exemplo.</dd>
       <dd>Na minha tentativa eu usei a tag &lt;button&gt; para os links de compra porém não ficou bonito, eu não consegui estilizar para ficar igual com a do desafio. No exercício resolvido, foi usado apenas um &lt;a&gt; onde foi dado o estilo correto e utilizando um display: inline-block;</dd>
       <dd>Também na minha tentativa de colocar as margens e padding, eu deixei o código um pouco mais confuso do que precisava.</dd>
       <dt><a href="https://matheusoliveiraul.github.io/origamid-html-e-css/0214b-exercicio-resolvido/index.html" target="_blank">0214b-exercicio-resolvido</a></dt>
       <dd>Resolução do exercício, como deveria ter ficado.</dd>
+      <hr>
       <dt><a href="https://matheusoliveiraul.github.io/origamid-html-e-css/0309a-posicionamento-exercicio/index.html" target="_blank">0309a-posicionamento-exercicio</a></dt>
       <dd>Minha tentativa de Recriar o exemplo.</dd>
       <dd>
@@ -20,6 +22,7 @@ Exercicios do curso do Origamid para html e css
       <dd>obs: Faltou o traço vermelho também.</dd>
       <dt><a href="https://matheusoliveiraul.github.io/origamid-html-e-css/0309b-posicionamento-resolvido/index.html" target="_blank">0309b-posicionamento-resolvido</a></dt>
       <dd>Resolução do exercício, como deveria ter ficado.</dd>
+      <hr>
       <dt><a href="https://matheusoliveiraul.github.io/origamid-html-e-css/0506a-refatorar-exercicio/index.html" target="_blank">0506a-refatorar-exercicio</a></dt>
       <dd>Minha tentativa de Recriar o exemplo.</dd>
       <dd>
@@ -38,6 +41,7 @@ Exercicios do curso do Origamid para html e css
       </dd>
       <dt><a href="https://matheusoliveiraul.github.io/origamid-html-e-css/0506b-refatorar-resolvido/index.html" target="_blank">0506b-refatorar-resolvido</a></dt>
       <dd>Resolução do exercício, como deveria ter ficado.</dd>
+      <hr>
       <dt><a href="https://matheusoliveiraul.github.io/origamid-html-e-css/0606a-responsivo-exercicio/index.html" target="_blank">0606a-responsivo-exercicio</a></dt>
       <dd>Minha tentativa de Recriar o exemplo.</dd>
       <dd>
