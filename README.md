@@ -47,7 +47,7 @@ Exercicios do curso do Origamid para html e css
       <dd>
             Eu não consegui usar o "object-fit: cover" de forma correta pois eu precisava colocar a altura em 100% (hight: 100%) e eu não coloquei.
       </dd>
-      <dd>Eu tambem não consegui pensar em uma forma melhor de fazer o site responsivo, só depois de ver a explicação que eu vi uma forma mais facil de fazer a responsividade. Eu apenas coloquei uma media query para abaixo dos 1000px, eu podia ter usado os break points que eu não conhecia para poder deixar o site mais responsivo para diferentes tamanhos de tela, e finalizando eu podia ter sido criativo e mais ousado para mexer na estrutura HTML e pensar em formas diferentes de resolver o problema</dd>
+      <dd>Eu apenas coloquei uma media query para abaixo dos 1000px, eu podia ter usado os break points que eu não conhecia para poder deixar o site mais responsivo para diferentes tamanhos de tela, e eu podia ter sido criativo e mais ousado para mexer na estrutura HTML e pensar em formas diferentes de resolver o problema</dd>
       <dt><a href="https://matheusoliveiraul.github.io/origamid-html-e-css/0606b-responsivo-resolvido/index.html" target="_blank">0606b-responsivo-resolvido</a></dt>
       <dd>Resolução do exercício, como deveria ter ficado.</dd>
 </dl>
